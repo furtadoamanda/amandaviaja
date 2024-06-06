@@ -41,3 +41,8 @@ h1 {
 .item_fotos {
     margin: 1em;
 }
+
+.item_fotos img {
+    width: 200px;
+    height: 150px;
+}
